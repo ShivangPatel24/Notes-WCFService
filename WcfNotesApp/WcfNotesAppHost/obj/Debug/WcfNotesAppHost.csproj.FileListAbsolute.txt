@@ -1,0 +1,11 @@
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\bin\Debug\WcfNotesAppHost.exe.config
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\bin\Debug\WcfNotesAppHost.exe
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\bin\Debug\WcfNotesAppHost.pdb
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\bin\Debug\WcfNotesApp.dll
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\bin\Debug\WcfNotesApp.pdb
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\obj\Debug\WcfNotesAppHost.csprojResolveAssemblyReference.cache
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\obj\Debug\WcfNotesAppHost.Form1.resources
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\obj\Debug\WcfNotesAppHost.Properties.Resources.resources
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\obj\Debug\WcfNotesAppHost.csproj.GenerateResource.Cache
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\obj\Debug\WcfNotesAppHost.exe
+C:\Users\Shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesAppHost\obj\Debug\WcfNotesAppHost.pdb

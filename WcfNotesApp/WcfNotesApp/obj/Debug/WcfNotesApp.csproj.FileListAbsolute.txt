@@ -1,0 +1,6 @@
+c:\users\shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesApp\bin\Debug\WcfNotesApp.dll.config
+c:\users\shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesApp\bin\Debug\WcfNotesApp.dll
+c:\users\shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesApp\bin\Debug\WcfNotesApp.pdb
+c:\users\shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesApp\obj\Debug\WcfNotesApp.csprojResolveAssemblyReference.cache
+c:\users\shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesApp\obj\Debug\WcfNotesApp.dll
+c:\users\shivang\documents\visual studio 2015\Projects\WcfNotesApp\WcfNotesApp\obj\Debug\WcfNotesApp.pdb
